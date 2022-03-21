@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BigSlots</string>
+    <string name="spin">Spin</string>
+    <string name="minus_bet">—</string>
+    <string name="plus_bet">+</string>
+    <string name="bet">Bet</string>
+    <string name="win_one">Congratulations, mortal!</string>
+    <string name="win_two">Well done!</string>
+    <string name="win_three">Could be worse..</string>
+    <string name="free_spins">Skies blessed you!</string>
+    <string name="lose">Fortune betrayed you!</string>
+    <string name="play">Play</string>
+    <string name="earn_coins">Earn coins</string>
+    <string name="player_score">player_score</string>
+    <string name="player_data_pref">player_data_pref</string>
+
+</resources>
